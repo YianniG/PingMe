@@ -1,7 +1,7 @@
 {
 
   "name": "Ping Me",
-  "description": "I'll remind you when a website is available. Icon from GLYPHICONS.com.",
+  "description": "I'll remind you when a website is available.",
   "manifest_version": 2,
   "version": "1.0",
   "homepage_url": "http://pingme.tech",
